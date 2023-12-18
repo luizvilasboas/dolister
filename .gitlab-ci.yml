@@ -11,13 +11,13 @@ before_script:
 build:
   stage: build
   script:
-    - go build -o myapp
+    - make build
   tags:
     - golang
 
 test:
   stage: test
   script:
-    - go test -v ./...
+    - make test
   tags:
     - golang
