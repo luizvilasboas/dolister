@@ -58,4 +58,4 @@ If you're interested in contributing to this project, feel free to open a pull r
 
 ## License
 
-This dolister is available under the [Apache License 2.0](https://gitlab.com/olooeez/dolister/-/blob/main/LICENSE). For more information, please see the LICENSE file.
+This dolister is available under the [Apache License 2.0](https://github.com/luizvilasboas/dolister.git). For more information, please see the LICENSE file.
